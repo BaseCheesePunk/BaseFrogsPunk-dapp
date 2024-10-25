@@ -111,7 +111,7 @@ nav button {
 }
 
 .social-media {
-  display: Twitter;
+  display: flex;
   justify-content: center; /* Center the icons */
   margin-top: 10px; /* Space above the icons */
 }
